@@ -1,6 +1,6 @@
 # Express Tutorial
 
-This is the Express tutorial by "The Odin Project" and "Mozilla MDN".
+This is the Express tutorial by "Mozilla Develop Network - MDN" viewed in "The Odin Project" course, NodeJS path.
 
 ## The Objective
 
